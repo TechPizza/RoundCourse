@@ -1,0 +1,12 @@
+C:\Source\PercorsoCircolare\ProgettoFinale\RoundCourse\RoundCourse.Interfaces\bin\Debug\RoundCourse.Interfaces.dll.config
+C:\Source\PercorsoCircolare\ProgettoFinale\RoundCourse\RoundCourse.Interfaces\bin\Debug\RoundCourse.Interfaces.dll
+C:\Source\PercorsoCircolare\ProgettoFinale\RoundCourse\RoundCourse.Interfaces\bin\Debug\RoundCourse.Interfaces.pdb
+C:\Source\PercorsoCircolare\ProgettoFinale\RoundCourse\RoundCourse.Interfaces\bin\Debug\EntityFramework.dll
+C:\Source\PercorsoCircolare\ProgettoFinale\RoundCourse\RoundCourse.Interfaces\bin\Debug\EntityFramework.SqlServer.dll
+C:\Source\PercorsoCircolare\ProgettoFinale\RoundCourse\RoundCourse.Interfaces\bin\Debug\EntityFramework.xml
+C:\Source\PercorsoCircolare\ProgettoFinale\RoundCourse\RoundCourse.Interfaces\bin\Debug\EntityFramework.SqlServer.xml
+C:\Source\PercorsoCircolare\ProgettoFinale\RoundCourse\RoundCourse.Interfaces\obj\Debug\RoundCourse.Interfaces.csprojAssemblyReference.cache
+C:\Source\PercorsoCircolare\ProgettoFinale\RoundCourse\RoundCourse.Interfaces\obj\Debug\RoundCourse.Interfaces.csproj.CoreCompileInputs.cache
+C:\Source\PercorsoCircolare\ProgettoFinale\RoundCourse\RoundCourse.Interfaces\obj\Debug\RoundCourse.Interfaces.csproj.CopyComplete
+C:\Source\PercorsoCircolare\ProgettoFinale\RoundCourse\RoundCourse.Interfaces\obj\Debug\RoundCourse.Interfaces.dll
+C:\Source\PercorsoCircolare\ProgettoFinale\RoundCourse\RoundCourse.Interfaces\obj\Debug\RoundCourse.Interfaces.pdb
