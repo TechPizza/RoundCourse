@@ -309,3 +309,4 @@ ASALocalRun/
 *.ide
 *.ide-shm
 .vs/RoundCourse/v15/Server/sqlite3/storage.ide-wal
+*.dll
