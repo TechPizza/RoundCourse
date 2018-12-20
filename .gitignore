@@ -302,3 +302,5 @@ ASALocalRun/
 
 # Local History for Visual Studio
 .localhistory/
+*.ide-shm
+.vs/RoundCourse/v15/.suo

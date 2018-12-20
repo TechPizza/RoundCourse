@@ -8,16 +8,18 @@ using RoundCourse.Interfaces.Entities;
 
 namespace RoundCourse.BL.Mappers
 {
-    public class ResourceMapper
+    public static class ResourceMapper
     {
         public static ResourceVM MapResource(Resource entity)
         {
-            ResourceVM res = new ResourceVM();
-
-            res.ResourceId = entity.ResourceId;
-            res.Username = entity.Username;
-            res.FirstName = entity.FirstName;
-            res.LastName = entity.LastName;
+            ResourceVM res = new ResourceVM
+            {
+                ResourceId = entity.ResourceId,
+                Username = entity.Username,
+                FirstName = entity.FirstName,
+                LastName = entity.LastName
+            };
+           
             return res;
         }
 
@@ -30,6 +32,19 @@ namespace RoundCourse.BL.Mappers
                 FirstName = t.FirstName,
                 LastName = t.LastName
             });
+
+            return res;
+        }
+
+        public static Resource MapResourceVM(ResourceVM vm)
+        {
+            Resource res = new Resource
+            {
+                ResourceId = vm.ResourceId,
+                Username = vm.Username,
+                FirstName = vm.FirstName,
+                LastName = vm.LastName
+            };
 
             return res;
         }

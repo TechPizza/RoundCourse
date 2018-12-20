@@ -26,24 +26,26 @@ namespace RoundCourse.SL.WebApi.Controllers
         }
 
         // GET api/<controller>/5
-        public string Get(int id)
+        [HttpGet]
+        public IHttpActionResult GetResource(int id)
         {
-            return "value";
+            BL.ResourceManager mng = new BL.ResourceManager();
+            Resource resource = mng.GetResourceById(id);
+
+            if (resource == null)
+                return NotFound();
+            ResourceVM res = ResourceMapper.MapResource(resource);
+            return Ok(res);
         }
 
         // POST api/<controller>
-        public void Post([FromBody]string value)
+        public IHttpActionResult Post(ResourceVM item)
         {
-        }
+            BL.ResourceManager mng = new BL.ResourceManager();
+            Resource resource = ResourceMapper.MapResourceVM(item);
 
-        // PUT api/<controller>/5
-        public void Put(int id, [FromBody]string value)
-        {
-        }
-
-        // DELETE api/<controller>/5
-        public void Delete(int id)
-        {
+            mng.AddNewResource(resource);
+            return Ok(item);
         }
     }
 }

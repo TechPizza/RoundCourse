@@ -46,6 +46,8 @@ namespace RoundCourse.DAL
 
         public void Delete(T entity)
         {
+            if (entity == null)
+                throw new ArgumentNullException();
             if (Context.Entry(entity).State == System.Data.Entity.EntityState.Detached)
             {
                 DbSet.Attach(entity);

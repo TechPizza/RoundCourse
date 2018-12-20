@@ -12,6 +12,6 @@ namespace RoundCourse.BL.VModel
         public string Year { get; set; }
         public DateTime StartDate { get; set; }
         public DateTime EndDate { get; set; }
-        public string Coordinator { get; set; }
+        public ResourceVM Coordinator { get; set; }
     }
 }
