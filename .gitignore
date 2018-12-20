@@ -304,3 +304,8 @@ ASALocalRun/
 .localhistory/
 *.ide-shm
 .vs/RoundCourse/v15/.suo
+*.lock
+*.config
+*.ide
+*.ide-shm
+.vs/RoundCourse/v15/Server/sqlite3/storage.ide-wal
