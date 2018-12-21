@@ -1,9 +1,0 @@
-C:\Source\PercorsoCircolare\ProgettoFinale\RoundCourse\RoundCourse.Common\bin\Debug\RoundCourse.Common.dll
-C:\Source\PercorsoCircolare\ProgettoFinale\RoundCourse\RoundCourse.Common\bin\Debug\RoundCourse.Common.pdb
-C:\Source\PercorsoCircolare\ProgettoFinale\RoundCourse\RoundCourse.Common\bin\Debug\log4net.dll
-C:\Source\PercorsoCircolare\ProgettoFinale\RoundCourse\RoundCourse.Common\bin\Debug\log4net.xml
-C:\Source\PercorsoCircolare\ProgettoFinale\RoundCourse\RoundCourse.Common\obj\Debug\RoundCourse.Common.csprojAssemblyReference.cache
-C:\Source\PercorsoCircolare\ProgettoFinale\RoundCourse\RoundCourse.Common\obj\Debug\RoundCourse.Common.csproj.CoreCompileInputs.cache
-C:\Source\PercorsoCircolare\ProgettoFinale\RoundCourse\RoundCourse.Common\obj\Debug\RoundCourse.Common.csproj.CopyComplete
-C:\Source\PercorsoCircolare\ProgettoFinale\RoundCourse\RoundCourse.Common\obj\Debug\RoundCourse.Common.dll
-C:\Source\PercorsoCircolare\ProgettoFinale\RoundCourse\RoundCourse.Common\obj\Debug\RoundCourse.Common.pdb
